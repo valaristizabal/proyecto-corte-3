@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12b75b91-a494-4a2d-913b-4e201701acfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/worldflows/pipeline.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prueba.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2om44wbfJwAPHyySGTU0LmNXYik" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731461230327</updated>
       <workItem from="1731461231347" duration="626000" />
-      <workItem from="1731462104495" duration="2564000" />
+      <workItem from="1731462104495" duration="3218000" />
     </task>
     <servers />
   </component>
